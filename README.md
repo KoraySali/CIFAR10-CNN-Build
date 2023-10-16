@@ -42,7 +42,7 @@ For each experiment, the code defines a specific CNN model, compiles it, trains 
 
 ### Key Findings and Results:
 
-The code provides a structured approach to systematically explore different architectural variations, optimisers, activation functions, dropout rates, and regularization techniques. The goal is to identify the combination that yields the highest accuracy on the CIFAR-10 dataset.
+The code provides a structured approach to systematically explore different architectural variations, optimisers, activation functions, dropout rates, and regularisation techniques. The goal is to identify the combination that yields the highest accuracy on the CIFAR-10 dataset.
 
 * Visualisations: The code provides various visualisations, including layer-by-layer architecture diagrams and activation maps, making it easier to understand the model's inner workings.
 
