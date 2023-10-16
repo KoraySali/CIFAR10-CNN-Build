@@ -40,6 +40,8 @@ This Python script is designed for building and evaluating Convolutional Neural 
 
 For each experiment, the code defines a specific CNN model, compiles it, trains it on the training data, and evaluates its accuracy on the test dataset. The results of each experiment, including test accuracy, are printed to the console.
 
+![](https://github.com/KoraySali/CIFAR10-CNN-Build/blob/main/base-architecture.png?raw=true)
+
 ### Key Findings and Results:
 
 The code provides a structured approach to systematically explore different architectural variations, optimisers, activation functions, dropout rates, and regularisation techniques. The goal is to identify the combination that yields the highest accuracy on the CIFAR-10 dataset.
