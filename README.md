@@ -50,4 +50,6 @@ The code provides a structured approach to systematically explore different arch
 
 * Accuracy Plots: The script includes plots of loss, confusion matrix, and accuracy to visually analyze model performance across different experiments.
 
+![](https://github.com/KoraySali/CIFAR10-CNN-Build/blob/main/rmspropadam.png?raw=true)
+
 * Correctly and Incorrectly Predicted Images: The code presents visually appealing images, both correctly and incorrectly classified by the model.
